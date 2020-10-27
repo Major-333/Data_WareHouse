@@ -1,0 +1,7 @@
+# ignore web file
+*.html
+
+# ignore zip file
+*.zip
+*.tar
+
